@@ -58,7 +58,7 @@ MSI B460M Bazooka
 
 <center>
 
-![12](/images/msi.png)
+![12](/assets/msi.png)
 
 </center>
 
@@ -66,7 +66,7 @@ MSI B460M Bazooka
 
 <center>
 
-![12](/images/ram.png)
+![12](/assets/ram.png)
 
 </center>
 
@@ -74,7 +74,7 @@ MSI B460M Bazooka
 
 <center>
 
-![12](/images/radeon.png)
+![12](/assets/radeon.png)
 
 </center>
 
@@ -88,16 +88,16 @@ The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
 
 <center>
 
-![12](/images/about.png)
+![12](/assets/about.png)
 
-![12](/images/accel.png)
+![12](/assets/accel.png)
 
-![12](/images/perf.png)
+![12](/assets/perf.png)
 
-![12](/images/geekbench.png)
+![12](/assets/geekbench.png)
 
-![12](/images/cinebench.png)
+![12](/assets/cinebench.png)
 
-![12](/images/powergadget.png)
+![12](/assets/powergadget.png)
 
 </center>
