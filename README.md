@@ -12,6 +12,13 @@ MSI B460M Bazooka
  - Bluetooth: USB dongle
  - Dual monitor connected to RX560
 ```
+# OpenCore (Version: 0.9.6 - stable) + macOS Sonoma 14.0
+
+<center>
+
+![12](/assets/sonoma.png)
+
+</center>
 
 # OpenCore (Version: 0.8.6 - stable) + macOS Ventura 13.01
 
